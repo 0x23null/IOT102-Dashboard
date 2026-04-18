@@ -14,11 +14,11 @@
 #define WIFI_SSID "IOT10232"
 #define WIFI_PASSWORD "0123456788"
 
-#define FIREBASE_API_KEY "AIzaSyC3ak9wrcoxz0P45xMaoaSGbKW-abFz-Yc"
-#define FIREBASE_DATABASE_URL "https://iot102-airmonitor-default-rtdb.asia-southeast1.firebasedatabase.app"
+#define FIREBASE_API_KEY ""
+#define FIREBASE_DATABASE_URL ""
 
-#define TELEGRAM_BOT_TOKEN "8074728154:AAHEJqS8g_Iq81iSI-A7J4d-WPeqjyFYv9w"
-#define TELEGRAM_CHAT_ID "7958238823"
+#define TELEGRAM_BOT_TOKEN ""
+#define TELEGRAM_CHAT_ID ""
 
 // ==========================================
 // 2. HARDWARE PINS
